@@ -2,7 +2,7 @@
 
 import Image from "next/image"
 
-const defaultImages = Array(12).fill("/images/kickoff2026.JPG")
+const defaultImages = Array(12).fill("/images/kickoff2026.jpg")
 
 type ImageSliderProps = {
   images?: string[]
