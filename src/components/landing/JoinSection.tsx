@@ -90,7 +90,7 @@ export function JoinSection() {
             />
             <div className="relative w-full aspect-[4/3] rounded-2xl overflow-hidden">
               <Image
-                src="/images/kickoff.JPG"
+                src="/images/kickoff2026.JPG"
                 alt="メンバー集合写真"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
