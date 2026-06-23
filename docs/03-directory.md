@@ -21,7 +21,7 @@ site/
 ├─public/
 │  └─images/
 │      ├─exp-logo.svg          // ロゴ
-│      ├─kickoff.JPG           // ヒーローで使う写真
+│      ├─kickoff20xx.JPG           // ヒーローで使う写真
 │      ├─Hero1/**              // Hero セクション スライダー用
 │      ├─Hero2/**
 │      ├─Hero3/**
